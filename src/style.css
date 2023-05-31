@@ -86,12 +86,11 @@ p {
   margin: 30px;
 }
 
-.content a {
+.content-container a {
   text-decoration: none;
-  color: var(--branding-color);
 }
 
-.content a:hover {
+.content-container a:hover {
   text-decoration: underline;
 }
 
